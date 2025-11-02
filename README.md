@@ -10,5 +10,5 @@ estou cursando engenharia de software na Estácio. Sou apaixonado por tecnologia
 2016 quando programei na minha primeira linguagem paskalzin e busco a perfeição em cada linha.
 
 ![Linkedin](https://www.linkedin.com/in/lucas-sidney-) 
-![Instagram](https://www.instagram.com/sarkovyfedorov?igsh=empiNHVrejE5dW5l&utm_source=qr) 
+![Instagram](https://www.instagram.com/sarkovyfedorov) 
 
