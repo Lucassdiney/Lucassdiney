@@ -2,7 +2,7 @@
 
 Oi, pessoal 👋😃
 
-Desenvolvedor Fullstack
+Desenvolvedor Full Stack
 
 Me chamo Lucas Sidney Nogueira Rocha, tenho 26 anos e sou natural do Ceará.
 Concluí o ensino médio no IFCE, com o curso técnico em eletroeletrônica. Atualmente
